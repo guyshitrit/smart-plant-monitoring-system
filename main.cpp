@@ -4,12 +4,12 @@
 #include <esp_sleep.h>
 
 // Replace with your network credentials
-const char* ssid     = "Gg_A-2.4";  // Ensure the correct SSID
-const char* password = "0526655670";  // Ensure the correct password
+const char* ssid     = "**********************";  // Enter Your_WiFi_SSID
+const char* password = "**********************";  // Enter Your_WiFi_Password
 
 // Replace with your Pushover User Key and API Token
-const char* pushover_user_key = "uqnz896cvbiuimi5u649rhijnnkptj";
-const char* pushover_api_token = "a53oqn9gnuuo6depaw6g47ij2cdij2";
+const char* pushover_user_key = "**********************";  // Enter Your_Pushover_User_Key
+const char* pushover_api_token = "**********************"; // Enter Your_Pushover_API_Token
 
 // Sensor details
 // ADC pin connected to the sensor

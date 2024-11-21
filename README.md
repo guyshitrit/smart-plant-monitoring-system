@@ -66,7 +66,6 @@ The Smart Plant Monitoring System is an IoT-based solution designed to help plan
    - **3-7**: Ideal moisture; no action needed.
    - **8-10**: Warning about oversaturated soil.
 4. Notifications are sent to your phone through the **Pushover app**.
-   - ![Notification Example](smart-plant-monitoring-system\Images & video\Push Notification.png)
 5. The ESP32 enters **deep sleep mode for 24 hours** to conserve power.
 
 ## **Future Enhancements**
